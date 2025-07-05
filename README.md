@@ -3,8 +3,7 @@
 A clean, accessible, and responsive therapist website built using **Next.js 15** and **Tailwind CSS** as part of an internship assignment. This project showcases services, about section, contact form, and FAQs to provide a professional digital presence for Dr. Serena Blake, PsyD.
 
 ## 🌐 Live Preview
-
-> Coming soon (Deploy on Vercel or Netlify)
+👉 [View Live Site](https://dr-serena-websitenpx.vercel.app)
 
 ## 🚀 Tech Stack
 
@@ -62,3 +61,7 @@ dr-serena-websitenpx/
 
 🔗 Developed with care by Anshika Dhaundiyal
    
+
+👩‍💻 Developed By
+Anshika Dhaundiyal
+GitHub Profile
